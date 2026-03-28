@@ -1,0 +1,58 @@
+PROVINCIA;CIUDAD;NOMBRE AEROPUERTO;COD_IATA
+Buenos Aires;Bahía Blanca;Comandante Espora;BHI
+Buenos Aires;Ciudad de Buenos Aires;Jorge Newbery;AEP
+Buenos Aires;Ezeiza;Ministro Pistarini;EZE
+Buenos Aires;Junín;Junín;JNI
+Buenos Aires;La Plata;La Plata;LPG
+Buenos Aires;Mar del Plata;Astor Piazzolla;MDQ
+Buenos Aires;Necochea;Necochea;NEC
+Buenos Aires;San Fernando;San Fernando;FDO
+Buenos Aires;Santa Teresita;Santa Teresita;STT
+Buenos Aires;Tandil;Tandil;TDL
+Buenos Aires;Villa Gesell;Villa Gesell;VGL
+Catamarca;Catamarca;Cnel. Felipe Varela;CTC
+Chaco;Resistencia;Jose de San Martín;RES
+Chubut;Comodoro Rivadavia;Intern.Gral. E. Mosconi;CRD
+Chubut;Esquel;Brig. Gral. Antonio Parodi;EQS
+Chubut;Puerto Madryn;El Tehuelche;PMY
+Chubut;Trelew;Alte. Marcos A. Zar;REL
+Córdoba;Córdoba;A.Taravella/Pajas Blancas;COR
+Córdoba;Río Cuarto;Area Material Río Cuarto;RCU
+Corrientes;Corrientes;Dr. Piragine Niveyro;CNQ
+Corrientes;Goya;Diego N. Díaz Colodrero;OYA
+Corrientes;Paso de los Libres;Paso de los Libres;AOL
+Entre Ríos;Concordia;Comodoro Pierrestegui;COC
+Entre Ríos;Paraná;Gral. Justo J.de Urquiza;PRA
+Formosa;Formosa;El Pucú;FMA
+Jujuy;San Salvador de Jujuy;Gob. Horacio Guzmán;JUJ
+La Pampa;General Pico;General Pico;GPO
+La Pampa;Santa Rosa;Santa Rosa;RSA
+La Rioja;La Rioja;Cap. Vicente A. Almonacid;IRJ
+Mendoza;Malargue;Cdro. Ricardo Salomon;LGS
+Mendoza;Mendoza;Gob. Gabrielli/El Plumerillo;MDZ
+Mendoza;San Rafael;Santiago Germano;AFA
+Misiones;Posadas;Lib. Gral. J. de San Martín;PSS
+Misiones;Puerto Iguazú;My. Carlos E. Krause;IGR
+Neuquén;Cutral-Co;Cutral-Co;CUT
+Neuquén;Neuquén;Presidente Perón;NQN
+Neuquén;San Martín de los Andes;Aviador .Campos/Chapelco;CPC
+Río Negro;Bariloche;Tte. Luis Candelaria;BRC
+Río Negro;General Roca;Arturo Humberto Illia;GNR
+Río Negro;Viedma;Gobernador Castello;VDM
+Salta;Salta;Gral. Guemes;SLA
+Salta;Tartagal;Gral. E. Mosconi;TTG
+San Juan;San Juan;Domingo Faustino Sarmiento;UAQ
+San Luis;Merlo;Valle del Conlara;RLO
+San Luis;San Luis;Brig. May. Cesar Raúl Ojeda;LUQ
+San Luis;Villa Reynolds;Villa Reynolds;VME
+Santa Cruz;El Calafate;Comandante Armando Tola;FTE
+Santa Cruz;El Turbio;El Turbio/28 de Noviembre;RYO
+Santa Cruz;Río Gallegos;Pil. Civ. Norberto Fernández;RGL
+Santa Fe;Reconquista;Daniel Jukic;RCQ
+Santa Fe;Rosario;Islas Malvinas;ROS
+Santa Fe;Santa Fe;Sauce Viejo;SFN
+Santiago del Estero;Río Hondo;Termas de Río Hondo;RHD
+Santiago del Estero;Santiago del Estero;Com. De La Paz Aragonés;SDE
+Tierra del Fuego;Río Grande;Gob. Ramón Trejo Noel;RGA
+Tierra del Fuego;Ushuaia;Malvinas Argentinas;USH
+Tucumán;S. Miguel de Tucumán;Tte. Benjamín Matienzo;TUC
