@@ -1,3 +1,17 @@
+# SIGOA - Simulación de Operaciones Aeroportuarias
+
+Proyecto desarrollado en Go que simula operaciones aeroportuarias mediante un enfoque basado en eventos.
+
+## Mi aporte
+- datos
+- estructuras
+- recursos/huffman.go
+- simulacion
+- sistema (check-in, depacho y embarque)
+- main
+
+
+
 # Trabajo Práctico Grupal de Algoritmos y Programación II
 
 Primer Cuatrimestre 2025
